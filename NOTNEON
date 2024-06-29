@@ -1,0 +1,22 @@
+{
+  "name": "NotNeon",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#FFFFFF",
+    "primary-color": "#0a0a0a",
+    "warning-color": "#E0115F",
+    "secondary-color": "#1a1c2c",
+    "sidebar-color": "#000000",
+    "roomlist-background-color": "#000009",
+    "roomlist-text-color": "#FFFFFF",
+    "roomlist-text-secondary-color": "#1A1C2C",
+    "roomlist-highlights-color": "#1A1C2C",
+    "roomlist-separator-color": "#293252",
+    "timeline-background-color": "#000009
+",
+    "timeline-text-color": "#FFFFFF",
+    "timeline-text-secondary-color": "#2D3241",
+    "timeline-highlights-color": "#1E1F25",
+    "panel-background-color": "#000001"
+  }
+}
