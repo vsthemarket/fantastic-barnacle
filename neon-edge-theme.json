@@ -1,20 +1,20 @@
 {
-    "name": "Neon Edge",
-    "is_dark": true,
-    "colors": {
-        "accent-color": "#0077FF",
-        "primary-color": "#121212",
-        "warning-color": "#E0115F",
-        "secondary-color": "#23272A",
-        "sidebar-color": "#121212",
-        "roomlist-background-color": "#23272A",
-        "roomlist-text-color": "#FFFFFF",
-        "roomlist-text-secondary-color": "#6A0DAD",
-        "roomlist-highlights-color": "#0077FF",
-        "roomlist-separator-color": "#333333",
-        "timeline-background-color": "#121212",
-        "timeline-text-color": "#FFFFFF",
-        "timeline-text-secondary-color": "#6A0DAD",
-        "timeline-highlights-color": "#0077FF"
-    }
+  "name": "Neon Edge",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#0077FF",
+    "primary-color": "#121212",
+    "warning-color": "#E0115F",
+    "secondary-color": "#23272A",
+    "sidebar-color": "#121212",
+    "roomlist-background-color": "#23272A",
+    "roomlist-text-color": "#FFFFFF",
+    "roomlist-text-secondary-color": "#6A0DAD",
+    "roomlist-highlights-color": "#0077FF",
+    "roomlist-separator-color": "#333333",
+    "timeline-background-color": "#121212",
+    "timeline-text-color": "#FFFFFF",
+    "timeline-text-secondary-color": "#6A0DAD",
+    "timeline-highlights-color": "#0077FF"
+  }
 }
