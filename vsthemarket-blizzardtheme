@@ -1,0 +1,21 @@
+{
+  "name": "VS. THE MARKET - Snow",
+  "is_dark": false,
+  "colors": {
+    "accent-color": "#2274a5",
+    "primary-color": "#f8f8f8",
+    "warning-color": "#90323D",
+    "secondary-color": "#2274a5",
+    "sidebar-color": "#FFFFFC",
+    "roomlist-background-color": "#F8F8F8",
+    "roomlist-text-color": "#001011",
+    "roomlist-text-secondary-color": "#FFFFFC",
+    "roomlist-highlights-color": "#FFFFFC",
+    "roomlist-separator-color": "#2274A5",
+    "timeline-background-color": "#F8F8F8",
+    "timeline-text-color": "#001011",
+    "timeline-text-secondary-color": "#2274A5",
+    "timeline-highlights-color": "#EBEBEB ",
+    "panel-background-color": "#fffffc"
+  }
+}
