@@ -1,0 +1,21 @@
+{
+  "name": "VS. THE MARKET - Blizzard",
+  "is_dark": false,
+  "colors": {
+    "accent-color": "#FFFFFC",
+    "primary-color": "#2274A5",
+    "warning-color": "#90323D",
+    "secondary-color": "#808887",
+    "sidebar-color": "#F8F8F8 ",
+    "roomlist-background-color": "#FFFFFC",
+    "roomlist-text-color": "#001011",
+    "roomlist-text-secondary-color": "#FFFFFC",
+    "roomlist-highlights-color": "#2274A5",
+    "roomlist-separator-color": "#2274A5",
+    "timeline-background-color": "#F8F8F8",
+    "timeline-text-color": "#001011",
+    "timeline-text-secondary-color": "#2274A5",
+    "timeline-highlights-color": "#FFFFFC",
+    "panel-background-color": "#F8F8F8"
+  }
+}
