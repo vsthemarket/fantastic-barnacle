@@ -1,0 +1,21 @@
+{
+  "name": "VS. THE MARKET Theme 3",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#D7DEDC",
+    "primary-color": "#080A0C",
+    "warning-color": "#90323D",
+    "secondary-color": "#17171A",
+    "sidebar-color": "#0F0F10",
+    "roomlist-background-color": "#0F0F10",
+    "roomlist-text-color": "#D7DEDC",
+    "roomlist-text-secondary-color": "#113255",
+    "roomlist-highlights-color": "#A38560",
+    "roomlist-separator-color": "#17171A",
+    "timeline-background-color": "#0F0F10",
+    "timeline-text-color": "#D7DEDC",
+    "timeline-text-secondary-color": "#113255",
+    "timeline-highlights-color": "#113255",
+    "panel-background-color": "#17171A"
+  }
+}
