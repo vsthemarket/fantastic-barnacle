@@ -1,0 +1,21 @@
+{
+  "name": "VS. THE MARKET - VS Experiment",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#4E6E58",
+    "primary-color": "#D7D4CB",
+    "warning-color": "#90323D",
+    "secondary-color": "#4357AD",
+    "sidebar-color": "#4E6E58",
+    "roomlist-background-color": "#D7D4CB",
+    "roomlist-text-color": "#0C1618",
+    "roomlist-text-secondary-color": "#4E6E58",
+    "roomlist-highlights-color": "#7F95D1  ",
+    "roomlist-separator-color": "#0C1618",
+    "timeline-background-color": "#D7D4CB",
+    "timeline-text-color": "#0C1618",
+    "timeline-text-secondary-color": "#4E6E58",
+    "timeline-highlights-color": "#9BA2FF",
+    "panel-background-color": "#4E6E58"
+  }
+}
