@@ -1,0 +1,21 @@
+{
+  "name": "VS. THE MARKET - Madara",
+  "is_dark": false,
+  "colors": {
+    "accent-color": "#8B2635",
+    "primary-color": "#DADDD8",
+    "warning-color": "#8B2635",
+    "secondary-color": "#ECEBE4",
+    "sidebar-color": "#DADDD8",
+    "roomlist-background-color": "#ECEBE4",
+    "roomlist-text-color": "#0C0C0C",
+    "roomlist-text-secondary-color": "#4C1921",
+    "roomlist-highlights-color": "#EEF0F2",
+    "roomlist-separator-color": "#0C0C0C",
+    "timeline-background-color": "#EEF0F2",
+    "timeline-text-color": "#0C0C0C",
+    "timeline-text-secondary-color": "#4C1921",
+    "timeline-highlights-color": "#ECEBE4",
+    "panel-background-color": "#DADDD8"
+  }
+}
