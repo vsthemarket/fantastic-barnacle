@@ -1,0 +1,21 @@
+{
+  "name": "VS. The Monarchy",
+  "is_dark": false,
+  "colors": {
+    "accent-color": "#693ee0",
+    "primary-color": "#693ee0",
+    "warning-color": "#DB2B39",
+    "secondary-color": "#edf2f4",
+    "sidebar-color": "#0f0f10",
+    "roomlist-background-color": "#edf2f4",
+    "roomlist-text-color": "#0f0f10",
+    "roomlist-text-secondary-color": "#693ee0",
+    "roomlist-highlights-color": "#fefffe",
+    "roomlist-separator-color": "#aa8f66",
+    "timeline-background-color": "#fefffe",
+    "timeline-text-color": "#0f0f10",
+    "timeline-text-secondary-color": "#693ee0",
+    "timeline-highlights-color": "#edf2f4",
+    "panel-background-color": "#fefffe"
+  }
+}
