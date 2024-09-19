@@ -1,0 +1,21 @@
+{
+  "name": "VS. THE MARKET - Nerf This!",
+  "is_dark": false,
+  "colors": {
+    "accent-color": "#519872",
+    "primary-color": "#DADDD8",
+    "warning-color": "#519872",
+    "secondary-color": "#519872",
+    "sidebar-color": "#DADDD8",
+    "roomlist-background-color": "#E4E7E5",
+    "roomlist-text-color": "#0C0C0C",
+    "roomlist-text-secondary-color": "#476A6F",
+    "roomlist-highlights-color": "#519872",
+    "roomlist-separator-color": "#0C0C0C",
+    "timeline-background-color": "#E9ECEC",
+    "timeline-text-color": "#0C0C0C",
+    "timeline-text-secondary-color": "#519872",
+    "timeline-highlights-color": "#ECEBE4",
+    "panel-background-color": "#DADDD8"
+  }
+}
