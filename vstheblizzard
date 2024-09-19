@@ -1,0 +1,21 @@
+{
+  "name": "VS. THE MARKET - VS. THE BLIZZARD",
+  "is_dark": false,
+  "colors": {
+    "accent-color": "#8B2635",
+    "primary-color": "#1C7293",
+    "warning-color": "#8B2635",
+    "secondary-color": "#0f0f10",
+    "sidebar-color": "#E7ECEF",
+    "roomlist-background-color": "#EAEFF2",
+    "roomlist-text-color": "#001514",
+    "roomlist-text-secondary-color": "#1C7293",
+    "roomlist-highlights-color": "#EDF2F4",
+    "roomlist-separator-color": "#EDF2F4",
+    "timeline-background-color": "#EDF2F4",
+    "timeline-text-color": "#001514",
+    "timeline-text-secondary-color": "#1C7293",
+    "timeline-highlights-color": "#E7ECEF",
+    "panel-background-color": "#E7ECEF"
+  }
+}
