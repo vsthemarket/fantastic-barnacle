@@ -1,0 +1,21 @@
+{
+  "name": "VS. The Monarch",
+  "is_dark": false,
+  "colors": {
+    "accent-color": "#693ee0",
+    "primary-color": "#693ee0",
+    "warning-color": "#DB2B39",
+    "secondary-color": "#edf2f4",
+    "sidebar-color": "#e7ecef",
+    "roomlist-background-color": "#edf2f4",
+    "roomlist-text-color": "#001514 ",
+    "roomlist-text-secondary-color": "#2DD881",
+    "roomlist-highlights-color": "#fefffe",
+    "roomlist-separator-color": "#693ee0",
+    "timeline-background-color": "#EDF2F4",
+    "timeline-text-color": "#001514",
+    "timeline-text-secondary-color": "#693ee0",
+    "timeline-highlights-color": "#e7ecef",
+    "panel-background-color": "#E7ECEF"
+  }
+}
